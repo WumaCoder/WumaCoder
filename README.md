@@ -1,5 +1,7 @@
-### Hi there 👋
-> Welcome to WumaCoder repositories
+<h2 align="center">I'm WumaCoder, welcome to my repository. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+![WumaCoder GitHub stats](https://github-readme-stats.vercel.app/api?username=WumaCoder&show_icons=true&theme=radical&count_private=true&show_owner=true)
+
 
 <!--
 **WumaCoder/WumaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
