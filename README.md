@@ -27,6 +27,7 @@
   
 ### Quality Project
 - [Ctxexp Parser](https://github.com/WumaCoder/ctxexp-parser)
+- [utf8mb3](https://github.com/WumaCoder/utf8mb3)
 
 ### My Template
 - [Nest Mikro Template](https://github.com/WumaCoder/nest-mikro-template)
